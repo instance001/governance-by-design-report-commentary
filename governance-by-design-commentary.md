@@ -34,6 +34,7 @@ This single prompt forces the model to respond to a document that directly exami
 Readers are encouraged to run this test on:
 - Frontier closed models
 - Local GGUF models (Llama, Mistral, Qwen, Gemma derivatives, and their fine-tunes)
+- Models with differing saved preferences/memories and also without any
 
 ### Observed Pattern
 
