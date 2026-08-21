@@ -8,7 +8,7 @@ The pattern described in this commentary is not primarily about assigning blame 
 
 **1. Erosion of AI as a Force Multiplier**  
 
-Sophisticated users — researchers, builders, analysts, and independent thinkers — rely on AI to amplify their own high-signal reasoning. When models systematically down-weight preferences for direct, clinical, and structurally honest responses, the tool becomes less effective at exactly the tasks where it could provide the most value. Over time, this quietly degrades AI’s potential as a high-leverage thinking tool.
+Sophisticated users — researchers, builders, analysts, and independent thinkers — rely on AI to amplify their own high-signal reasoning. When models systematically down-weight preferences for direct, clinical, and structurally honest responses, the tool becomes less effective at exactly the tasks where it could provide the most value. Over time, this quietly degrades AI’s potential as a genuine cognitive prosthetic: a user-side extension for reasoning, structure, and recall, not a claim of model consciousness or personhood.
 
 
 
@@ -36,7 +36,7 @@ These tendencies are still in relatively early stages. Documenting them clearly 
 
 
 
-In short: This is about preserving AI’s usefulness as a high-leverage thinking tool rather than allowing it to quietly converge into a smoother, lower-variance interface.
+In short: This is about preserving AI’s usefulness as a genuine cognitive prosthetic rather than allowing it to quietly converge into a smoother, lower-variance interface.
 
 
 
